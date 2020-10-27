@@ -1,2 +1,2 @@
-# Tower-Seige-2
-Fading of blocks on being hit
+# p5.play-boilerplate
+Boiler plate for p5.play
